@@ -1,0 +1,3 @@
+1. git --version : To check the version of git.
+2. git status : to check the status
+3. git init : to initialize the repositary to git repository.
